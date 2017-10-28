@@ -1,0 +1,29 @@
+html { background-color: #d3d3d3; background-image: url(../images/beach-bg.jpg); background-size: cover; }
+
+footer { height: 300px; background-color: rgba(255, 255, 255, 0.65); }
+
+.footer-outline { height: 200px; padding-top: 50px; padding-bottom: 50px; }
+
+.footer-center { height: inherit; padding-right: 15%; padding-left: 15%; }
+
+.footer-sitemap { display: inline-block; border-right: 1px solid black; height: 150.4px; }
+.footer-sitemap ul { margin-right: 200px; }
+
+.footer-info { display: inline-block; }
+.footer-info ul { margin-right: 200px; margin-top: 25px; margin-bottom: 25px; }
+
+.footer-social { display: inline-block; }
+.footer-social ul { margin-right: 75px; margin-top: 25px; margin-bottom: 25px; }
+
+.footer-floatright { float: right; margin-right: 200px; border-right: 1px solid black; height: 150.4px; }
+
+h4 { margin: 0; font-weight: 800; font-family: Helvetica bold; }
+
+ul { list-style: none; padding-left: 0; }
+ul li { margin-bottom: 2px; }
+ul li a { text-decoration: none; color: black; }
+
+.footer-copyright { margin-top: 30px; }
+.footer-copyright p { margin: 0; color: rgba(48, 48, 48, 0.7); }
+
+a:hover { color: rgba(4, 23, 229, 0.7); }
